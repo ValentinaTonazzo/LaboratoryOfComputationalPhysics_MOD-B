@@ -1,0 +1,31 @@
+(about lstm):
+
+ https://stackoverflow.com/questions/38714959/understanding-keras-lstms/50235563#50235563
+ https://stackoverflow.com/questions/53955093/doubts-regarding-understanding-keras-lstms
+
+(about input_shape): 
+
+https://stackoverflow.com/questions/44747343/keras-input-explanation-input-shape-units-batch-size-dim-etc
+
+(examples using LSTM):
+
+https://github.com/danmoller/TestRepo/blob/master/TestBookLSTM.ipynb
+
+https://github.com/kratzert/pangeo_lstm_example/blob/master/LSTM_for_rainfall_runoff_modelling.ipynb
+
+https://www.tensorflow.org/tutorials/structured_data/time_series
+
+INCA-ENCA encoder:
+
+https://renkulab.io/gitlab/bistom/enca-inca/-/blob/master/train_ENCA_model1.py
+
+Creating models without Sequential() (needed for the encoder):
+https://keras.io/guides/functional_api/
+
+Change dataset every N epochs
+https://stackoverflow.com/questions/49510612/change-training-dataset-every-n-epochs-in-keras
+https://stackoverflow.com/questions/46853247/keras-how-to-mutate-data-for-each-epoch
+
+About customizing fit():
+https://www.tensorflow.org/guide/keras/customizing_what_happens_in_fit/
+
